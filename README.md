@@ -15,4 +15,3 @@ CSS
 <br>
 JavaScript
 <br/>
-<h2> Video: </h2>
